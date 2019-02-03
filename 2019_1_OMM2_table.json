@@ -1,0 +1,76 @@
+{
+  "teams": [
+        {
+            "teamName":"Hybrids",
+            "position":1,
+            "win": 0,
+            "loss": 1,
+            "points": 1,
+            "for": 34,
+            "against": 67
+        },
+        {
+            "teamName":"Joe Pringles",
+            "position":2,
+            "win": 1,
+            "loss": 0,
+            "points": 3,
+            "for": 67,
+            "against": 34
+        },
+        {
+            "teamName":"Pump Fake News",
+            "position":3,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        },
+        {
+            "teamName":"Straight Oulet To Compton",
+            "position":4,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        },
+        {
+            "teamName":"Cups",
+            "position":5,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        },
+        {
+            "teamName":"Linbetweeners",
+            "position":6,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        },
+        {
+            "teamName":"Nothing But Nets",
+            "position":7,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        },
+        {
+            "teamName":"Real Friends",
+            "position":8,
+            "win": 0,
+            "loss": 0,
+            "points": 0,
+            "for": 0,
+            "against": 0
+        }
+    ]
+}
